@@ -12,7 +12,7 @@ drei Schritte notwendig:
 
 1. **Druckvorlage (SVG-Layout)** mit Tasten für schweizerdeutschen Umlaute und
    Mac-spezifischen Symbole
-2. **Konfiguration (DIP-Switches)** der WASD-Tastatur in den Mac-Kompatibilitätsmodus.
+2. **Konfiguration (DIP-Switches)** der WASD-Tastatur in den Mac-Kompatibilitätsmodus
 3. **Spezialtasten (Keyboard-Mapping)** wie beispielsweise Helligkeit und Lautstärke
    unter Mac nutzbar machen
 
