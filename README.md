@@ -24,7 +24,7 @@ auf [WASD Keyboards] wählen. Zur Erklärung:
 * ISO: bedeutet, das eine grosse Enter-Taste verwendet wird, wie diese bei
   schweizerdeutschen Tastaturen herkömmlich ist 
 * 105-Key: ist die Standardgrössse von Tastaturen mit Ziffernblock und separaten
-  Pfeiltasten. Das hier vorliegende SVG-Layout wurde für diese grösse erstellt.
+  Pfeiltasten. Das hier vorliegende SVG-Layout wurde für diese grösse erstellt
 
 Als Druckvorlage kann diese Datei verwendet werden: [wasd-inkscape-105-8.16.2019-chde-mac-print.svg](wasd-inkscape-105-8.16.2019-chde-mac-print.svg)
 
