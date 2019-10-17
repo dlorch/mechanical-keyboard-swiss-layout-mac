@@ -19,7 +19,7 @@ drei Schritte notwendig:
 Schritt 1: Druckvorlage
 -----------------------
 
-Als Vorlage das Modell die "WASD V3 105-Key ISO Custom Mechanical Keyboard"
+Als Vorlage das Modell "WASD V3 105-Key ISO Custom Mechanical Keyboard"
 auf [WASD Keyboards] wählen. Zur Erklärung:
 * ISO: bedeutet, das eine grosse Enter-Taste verwendet wird, wie diese bei
   schweizerdeutschen Tastaturen herkömmlich ist 
@@ -78,4 +78,4 @@ Daniel Lorch, im Oktober 2019
 
 [WASD Keyboards]: http://www.wasdkeyboards.com
 [V3 v0.14 User Guide]: https://support.wasdkeyboards.com/hc/article_attachments/360038937633/V3_user_manual_FW_0.14.pdf
-[Karabinere-Elements]: https://pqrs.org/osx/karabiner/
+[Karabiner-Elements]: https://pqrs.org/osx/karabiner/
