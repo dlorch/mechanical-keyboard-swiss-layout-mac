@@ -3,7 +3,7 @@ Mechanische Tastatur mit Schweizerdeutscher Belegung für Macs
 
 ![WASD Mechanische Tastatur mit Scheizerdeutscher Belegung für Macs](images/wasd-chde-mac-lorch.jpg)
 
-Im folgenden wird beschrieben, wie mit einer Tastatur von [WASD Keyboards]
+Im folgenden wird beschrieben, wie man mit einer Tastatur von [WASD Keyboards]
 eine schweizerdeutsche Belegung für Macs konfigurieren kann.
 
 Die Tastaturen von [WASD Keyboards] werden vom Mac als PC-Tastatur erkannt.
